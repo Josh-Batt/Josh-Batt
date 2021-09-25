@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tech Stack
+
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+
 ### :computer: Data scientist based in London
 
 ### :books: Competing in Kaggle competitions, Hackathons and personal side projects to continue development
