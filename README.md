@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Header](https://github.com/Josh-Batt/Josh-Batt/blob/main/Logo3.png "Header")
 
 <!--
 **Josh-Batt/Josh-Batt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
