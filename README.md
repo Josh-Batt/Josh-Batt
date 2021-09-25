@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning how to: Build a phone app with python
-- 👯 I’m looking to collaborate on: A.I. based projects
-- 📫 How to reach me: josh.batt@gmail.com
+
+:computer: Data scientist based in London
+
+:books: Competing in Kaggle competitions, Hackathons and personal side projects to continue skillset growth
+
+:chart: Hope to bring my ML knowledge to the right company. Please get in touch if you have an A.I. based project in mind, or you are a company looking for a data scientist.
