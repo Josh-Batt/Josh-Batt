@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### :computer: Data scientist based in London
 
-### :books: Competing in Kaggle competitions, Hackathons and personal side projects to continue skillset growth
+### :books: Competing in Kaggle competitions, Hackathons and personal side projects to continue development
 
 ### :chart: Hope to bring my ML knowledge to the right company. 
 
