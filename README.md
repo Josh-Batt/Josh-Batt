@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 ### :books: Competing in Kaggle competitions, Hackathons and personal side projects to continue skillset growth
 
-### :chart: Hope to bring my ML knowledge to the right company. Please get in touch if you have an A.I. based project in mind, or you are a company looking for a data scientist.
+### :chart: Hope to bring my ML knowledge to the right company. 
+
+### :zap: Please get in touch if you have an A.I. based project in mind, or you are a company looking for a data scientist.
+
+### :email: Email: josh.batt@gmail.com
