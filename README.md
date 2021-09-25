@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning how to: Build a phone app with python
+- 👯 I’m looking to collaborate on: A.I. based projects
+- 📫 How to reach me: josh.batt@gmail.com
