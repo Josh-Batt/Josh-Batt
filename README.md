@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/Flutter-2b83e2)     ![](https://img.shields.io/badge/Python-ffd700)     ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Flutter-2b83e2)     ![](https://img.shields.io/badge/Python-ffd700)     ![](https://img.shields.io/badge/JavaScript-00ff00)     ![](https://img.shields.io/badge/Firebase-ffa500)     ![](https://img.shields.io/badge/Adobe%20XD-800080)     ![](https://img.shields.io/badge/Docker-000080)     ![](https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-00ffff)
 
 ### 💻 Full Stack Developer
 
