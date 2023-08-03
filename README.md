@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### 💻 Full Stack Developer
 
-### 🚀 Founded and launched Dait
+### 🚀 Founded and launched Dait - ![](https://dait.squarespace.com/)
 
 ### 📬 Email: josh.batt@gmail.com
