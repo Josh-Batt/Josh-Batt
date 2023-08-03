@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
+![]([https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a](https://img.shields.io/badge/Flutter-2b83e2))     ![]([https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue](https://img.shields.io/badge/Python-ffd700))     ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
 ### 💻 Full Stack Developer
 
