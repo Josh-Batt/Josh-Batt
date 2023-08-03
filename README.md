@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### 🚀 Founded and launched Dait - https://dait.squarespace.com/
 
-### 📬 Email: josh.batt@gmail.com
+### 📬 Email - josh.batt@gmail.com
