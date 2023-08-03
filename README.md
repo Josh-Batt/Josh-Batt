@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)     ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Library-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)     ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange)
 
-### 💻: Full Stack Developer
+### 💻 Full Stack Developer
 
-### 🚀: Founded and launched Dait
+### 🚀 Founded and launched Dait
 
-### :email: Email: josh.batt@gmail.com
+### 📬 Email: josh.batt@gmail.com
